@@ -5,3 +5,13 @@ __pycache__/
 .ipynb_checkpoints/
 data/raw/
 data/processed/
+mlruns/
+mlflow.db
+model_export/
+.ipynb_checkpoints/
+
+
+# Système / éditeur
+.DS_Store
+.vscode/
+settings.json
