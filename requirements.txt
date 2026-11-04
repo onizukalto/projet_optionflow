@@ -1,0 +1,9 @@
+massive
+pandas
+numpy
+pyarrow
+python-dotenv
+scikit-learn
+joblib
+streamlit
+plotly
